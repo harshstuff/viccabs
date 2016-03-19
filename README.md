@@ -1,2 +1,5 @@
 # viccabs
-Registration form and validaton testing
+
+Development stage 1; focus on-
+Registration form, its fields and validaton
+styling- incomplete.
